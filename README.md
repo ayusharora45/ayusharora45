@@ -1,5 +1,7 @@
 ### Hi I’m Ayush Arora 👋
 
+🔭 I’m currently working as a System Enginner with Tata Consultancy Services Ltd.
+
 <!--
 **ayusharora45/ayusharora45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
