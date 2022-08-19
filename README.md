@@ -1,8 +1,8 @@
 ### Hi I’m Ayush Arora 👋
 
 -🔭 I’m currently working as a System Enginner with Tata Consultancy Services Ltd.
--📫 How to reach me: ayusharora45@gmail.com 
--LinkedIn:	https://www.linkedin.com/in/ayush-arora-730a17146/
+- 📫 How to reach me: ayusharora45@gmail.com 
+- LinkedIn:	https://www.linkedin.com/in/ayush-arora-730a17146/
 
 I have good knowledge on Python, C# Profesionally worked on .NET
 
